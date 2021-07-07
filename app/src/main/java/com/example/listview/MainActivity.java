@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+    //comments
 
     protected void sendSMSMessage() {
         phoneNo = txtphoneNo.getText().toString();
