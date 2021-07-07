@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     //comments
+    //listview
 
     protected void sendSMSMessage() {
         phoneNo = txtphoneNo.getText().toString();
